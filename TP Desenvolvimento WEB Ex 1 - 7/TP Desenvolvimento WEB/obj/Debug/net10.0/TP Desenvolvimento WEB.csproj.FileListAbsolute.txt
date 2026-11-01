@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\bin\Debug\net10.0\TP Desenvolvimento WEB.exe
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\bin\Debug\net10.0\TP Desenvolvimento WEB.deps.json
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\bin\Debug\net10.0\TP Desenvolvimento WEB.runtimeconfig.json
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\bin\Debug\net10.0\TP Desenvolvimento WEB.dll
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\bin\Debug\net10.0\TP Desenvolvimento WEB.pdb
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desenvolvimento WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desenvolvimento WEB.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desenvolvimento WEB.AssemblyInfo.cs
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desenvolvimento WEB.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desenvolvimento WEB.dll
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\refint\TP Desenvolvimento WEB.dll
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desenvolvimento WEB.pdb
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desenvolvimento WEB.genruntimeconfig.cache
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\ref\TP Desenvolvimento WEB.dll
+C:\Users\gabri\source\repos\TP Desenvolvimento WEB\TP Desenvolvimento WEB\obj\Debug\net10.0\TP Desen.87562B29.Up2Date
