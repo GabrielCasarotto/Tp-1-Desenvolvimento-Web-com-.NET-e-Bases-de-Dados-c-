@@ -1,0 +1,32 @@
+﻿@page
+@model Tp_1_C__ASP_NET.Pages.IndexModel
+@{
+    ViewData["Title"] = "Página Inicial - Produtos";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Portal de produtos</h2>
+    <p>Confira nossa lista de produtos.</p>
+</div>
+
+<div class="container mt-4">
+    <h3>Lista de Produtos</h3>
+
+    <table class="table table-striped table-bordered mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>Nome do Produto</th>
+                <th>Preço (R$)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var produto in Model.Produtos)
+            {
+                <tr>
+                    <td>@produto.Nome</td>
+                    <td>R$ @produto.Preco.ToString("F2")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
